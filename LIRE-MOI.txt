@@ -1,0 +1,17 @@
+MIDNIGHT RUN 1.0.0
+
+Windows 10 / 11, 64 bits.
+Lancez Midnight-Run-1.0.0-Windows-x64.exe par double-clic. Aucun serveur, connexion ou installation de Node.js nécessaire.
+
+ZQSD / WASD / flèches : accélérer, freiner / reculer, diriger
+Espace : frein à main / drift
+Maj : nitro
+C : changer de caméra
+R : remettre la voiture sur la route
+Échap : pause
+F11 : plein écran
+
+Le jeu et ses polices sont embarqués. Les records restent dans le profil local de l’application.
+Exécutable de développement non signé. Construit depuis Linux ; lancement natif Windows à vérifier sur Windows.
+
+SHA-256 : 6b16be4df1e7455c7958046d916839c8cdfaa14142e171594627e03199c7c647
