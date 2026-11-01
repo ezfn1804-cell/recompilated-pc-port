@@ -1,0 +1,16 @@
+NEON RIFT · OVERDRIVE 2.0.0
+
+Windows 10 / 11, 64 bits.
+Lancez Neon-Rift-Overdrive-2.0.0-Windows-x64.exe par double-clic. Aucun serveur, connexion ou Node.js nécessaire.
+
+ZQSD / WASD / flèches : mouvement
+Espace / clic droit : dash offensif
+Clic gauche maintenu : visée libre (sinon tir automatique)
+E : surcharge, quand la jauge atteint 100 %
+Échap : pause, F11 : plein écran, M : son
+1 / 2 / 3 : choisir une amélioration
+
+Le score est sauvegardé dans le profil local de l’application.
+Exécutable de développement non signé.
+
+SHA-256 : e6a6cf3f27aa1b52384e85189197bebc14f5aa189e195b9e0704dedcd2fe2ffb
